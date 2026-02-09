@@ -3,7 +3,7 @@
 [//]: # (\bibliography{path/to/yout/references})
 
 
-# FICD
+# FICD: Functional Imaging Constrained Diffusion
 
 Minhui Yu, Mengqi Wu, Ling Yue, Andrea Bozoki, Mingxia Liu
 
