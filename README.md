@@ -7,7 +7,6 @@
 
 Minhui Yu, Mengqi Wu, Ling Yue, Andrea Bozoki, Mingxia Liu
 
-# Functional Imaging Constrained Diffusion for Brain PET Synthesis from Structural MRI
 
 This repository is the official implementation of [Functional Imaging Constrained Diffusion for Brain PET Synthesis from Structural MRI](https://arxiv.org/abs/2405.02504). 
 
