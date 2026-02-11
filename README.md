@@ -20,7 +20,7 @@ You can download pretrained models here:
 
 
 # Citation
-If you use this toolbox in your research, please cite this paper:
+If you use this code in your research, please cite this paper:
 
 ```
 @article{Yu2025FICD,
@@ -30,3 +30,10 @@ If you use this toolbox in your research, please cite this paper:
   year = {2025}
 }
 ```
+
+# Contact
+If you have any problems with our code or have some suggestions, please feel free to contact us: 
+
+- Minhui Yu (minhui.yu@unc.edu)
+- Mingxia Liu (mingxia_liu@med.unc.edu)
+
