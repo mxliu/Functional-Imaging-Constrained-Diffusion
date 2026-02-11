@@ -17,3 +17,16 @@ This repository is the official implementation of [Functional Imaging Constraine
 You can download pretrained models here:
 
 - [Checkpoints](https://github.com/minhuiyu0418/FICD/blob/main/checkpoints/epoch49_checkpoint.pt) trained on paired MRI and PET images of 263 control normal subjects from ADNI.
+
+
+# Citation
+If you use this toolbox in your research, please cite this paper:
+
+```
+@article{Yu2025FICD,
+  author = {Yu, Minhui and Wu, Mengqi and Yue, Ling and Bozoki, Andrea and Liu, Mingxia},  
+  title = {Functional Imaging Constrained Diffusion for Brain PET Synthesis from Structural MRI},  
+  journal = {arXiv:2405.02504},
+  year = {2025}
+}
+```
